@@ -1,0 +1,21 @@
+{
+  "login": {
+    "email": "Email Id",
+    "password": "Password",
+    "cpassword": "Confirm Password",
+    "login": "Sign In",
+    "signup": "Sign up",
+    "remember": "Remember",
+    "reset": "Forgot?",
+    "name": "Full Name",
+    "contact": "Contact Number",
+    "address": "Address"
+  },
+  "register": {
+    "title": "Your Profile",
+    "country": "Country",
+    "phone": "Phone",
+    "placeholder_phone": "Enter phone number",
+    "continue": "Continue"
+  }
+}
